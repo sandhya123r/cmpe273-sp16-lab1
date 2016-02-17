@@ -22,3 +22,6 @@ _testmain.go
 *.exe
 *.test
 *.prof
+
+# ignore test files as they are NOT supposed to touch!
+*_test.go
